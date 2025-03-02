@@ -1,0 +1,8 @@
+numpy==1.23.5
+flask==2.2.2
+Werkzeug==2.2.2
+boto3==1.28.53
+pymysql==1.1.0
+pandas==2.1.0
+cryptography==41.0.3
+python-dotenv==1.0.0 
