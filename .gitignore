@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Docker generated files
+s3
+mysql/data
