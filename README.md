@@ -78,4 +78,4 @@ python client.py
 - **Data Processing**: Pandas
 
 ## Notes
-- The processed data will be *INSERTED* into the MySQL database instead of overwrited, so be careful with the data you insert.
+- The processed data will be **INSERTED** into the MySQL database instead of overwrited, so be careful with the data you insert.
